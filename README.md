@@ -15,4 +15,4 @@ This browser application allows users to see my first website showing my favorit
 * None
 ## License
 MIT
-Copyright(c)2022 Sue Roberts
+* Copyright(c)2022 Sue Roberts
